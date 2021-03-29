@@ -1,20 +1,20 @@
 [
 	{
-		"id": "prod_JClzhbR5zNkU64",
+		"id": "price_1IaMSwKQzOqirOCOVErW7Mce",
 		"title": "Sonic 1991",
 		"image": "/images/sonic_cover.jpg",
 		"description": "Sonic the Hedgehog — great platformer",
 		"price": 10.00
 	}, 
 	{
-		"id": "prod_JCm0YjFJuCYgmq",
+		"id": "price_1IaMSWKQzOqirOCO9Ava2vPD",
 		"title": "Metal Gear Solid",
 		"image": "/images/mgs_cover.png",
 		"description": "Metal Gear Solid is a stealth game developed by Konami",
 		"price": 12.00
 	},
 	{
-		"id": "prod_JCm0KVGmsG7Bb7",
+		"id": "price_1IaMSwKQzOqirOCOVErW7Mce",
 		"title": "Silent Hill 2",
 		"description": "Silent Hill 2 is a 2001 survival horror video game published by Konami",
 		"image": "/images/sh_cover.jpg",
